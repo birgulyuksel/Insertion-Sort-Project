@@ -11,7 +11,7 @@ Big-O Gösterimi: n(n+1)/2 O(n^2)
 
 Time Complexity: 1)Average case: Aradığımız sayının ortada olması. 2)Worst case: Aradığımız sayının sonda olması. 3)Best case: Aradığımız sayının dizinin en başında olması.
 
-Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
+Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
 
