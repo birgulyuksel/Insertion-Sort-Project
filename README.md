@@ -19,3 +19,5 @@ Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.
 2. [3,5,7,8,2,9,4,15,6]
 3. [2,3,5,7,8,9,4,15,6]
 4. [2,3,4,5,7,8,9,15,6]
+
+Patika.dev linkim: https://app.patika.dev/birgulyuksel
